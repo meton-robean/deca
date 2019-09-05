@@ -6,6 +6,11 @@ We highly recommend using docker for your development environment.
 Follow the instructions in [rocket-chip-env](https://github.com/rhit-neuro/deca-docker/tree/master/rocket-chip-env) for setting up the docker image associated with this project.
 
 ## Getting started
+### method1:  
+here is a detailed wiki blog to guide you to start quickly ! https://github.com/rhit-neuro/deca/wiki/multiplier
+
+### method2:  
+Following the next:  
 #### First time setup
 After cloning this repo, execute the following to download the `chisel` code for building a `rocket-chip`:
 ```bash
